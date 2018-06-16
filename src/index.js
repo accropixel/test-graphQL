@@ -7,8 +7,6 @@ const AuthPayload = require('./resolvers/AuthPayload')
 const Subscription = require('./resolvers/Subscription')
 const LinkList = require('./resolvers/LinkList')
 
-// test
-
 const resolvers = {
     Query,
     Mutation,
